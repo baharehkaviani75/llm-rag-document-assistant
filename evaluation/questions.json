@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What are the candidate's computer vision skills?",
+        "ground_truth": "The candidate has experience with PyTorch, OpenCV and YOLO."
+    },
+    {
+        "question": "Which programming language is mentioned?",
+        "ground_truth": "Python is mentioned as a programming language."
+    },
+    {
+        "question": "What deep learning frameworks were used?",
+        "ground_truth": "PyTorch and TensorFlow were used."
+    }
+]
